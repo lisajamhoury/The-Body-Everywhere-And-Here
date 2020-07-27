@@ -1,3 +1,5 @@
+# Evaluation and Policies 
+
 ## Evaluation
 Grades will be determined according to the following breakdown:
 
