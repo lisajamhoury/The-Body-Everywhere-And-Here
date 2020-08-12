@@ -49,6 +49,9 @@ The final two weeks of class will be devoted to final projects. Use this assignm
 
 This will comprise 20% of your grade. You will not be graded on whether it works on not, you will be graded on your process and documentation. So, please! make sure that you leave time to document your project well!
 
+## Content Overview
+Coming soon!
+
 ## Week-By-Week
 Coming soon!
 
