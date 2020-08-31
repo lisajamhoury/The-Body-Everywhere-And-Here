@@ -50,7 +50,34 @@ The final two weeks of class will be devoted to final projects. Use this assignm
 This will comprise 20% of your grade. You will not be graded on whether it works on not, you will be graded on your process and documentation. So, please! make sure that you leave time to document your project well!
 
 ## Content Overview
-Coming soon!
+### Class One: Sept 9, 2020
+* Topic: The Body & The Computer 
+* Technical: Computer vision in Javascript 
+
+### Week Two: Sept 14, 2020
+* Topic: Presence in virtual spaces 
+* Technical: Live Web Redux, WebRTC
+
+### Week Three: Sept 21, 2020
+* Topic: Digital Forms & Online Identities
+* Guest speaker: TBC 
+* Technical: Posenet over WebRTC Peers
+
+### Week Four: Sept 28, 2020
+* Topic: "Social Networks" 
+* Technical: Kinect in JS, Peer mesh
+
+### Week Five: Oct 5, 2020
+* Topic: Dimensions & Depth
+* Technical: Kinect in JS, Depthkit (?)
+
+### Week Six: Oct 12, 2020
+* Topic: Inclusive Design 
+* Guest Speaker: Lauren Race 
+* Technical: User testing
+
+### Week Seven: Oct 19, 2020
+* Topic: Final Presentations!!!
 
 ## Week-By-Week
 Coming soon!
