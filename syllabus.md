@@ -8,9 +8,9 @@ See [Evaluation and Policies](/policies.md).
 ## Guidelines 
 A big part of learning at ITP is learning from each other. So share your work and in exchange you'll get to see everyone else's!
 
-1. Do the assignment.
-2. Contribute a question.
-3. Post blog documentation: Ideally something visual, some written thoughts, and code. If you are struggling with your sketch and can't get things to work, put your energy into writing about what didn't work and what you did to try to solve it.
+1. Do the assignments.
+2. Contribute to discussions.
+3. Post documentation: Ideally something visual, some written thoughts, and code. If you are struggling with your sketch and can't get things to work, put your energy into writing about what didn't work and what you did to try to solve it.
 
 ## Attendance 
 Please be on time! I commit to ending class on time, which means I will start class on time so we can get through all class material. 
