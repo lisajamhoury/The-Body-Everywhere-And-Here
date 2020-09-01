@@ -36,7 +36,7 @@ All class lectures will be recorded to accommodate students who miss class. Reco
 ## Lisa's Contact 
 lisa.jamhoury@nyu.edu
 
-[Office hours link](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)
+[Office hours link](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY)<br>
 Wed 10am—12:30pm ET
 
 ## Support 
@@ -70,7 +70,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Week Three: Sept 21, 2020
 * Topic: Digital Forms & Online Identities
-* Guest speaker: TBC 
+* Guest speaker: [LaJuné McMillian](https://laja.me/)
 * Technical: Posenet over WebRTC Peers
 
 ### Week Four: Sept 28, 2020
@@ -83,7 +83,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Week Six: Oct 12, 2020
 * Topic: Inclusive Design 
-* Guest Speaker: Lauren Race 
+* Guest Speaker: [Lauren Race](https://www.laurenrace.com/) 
 * Technical: User testing
 
 ### Week Seven: Oct 19, 2020
