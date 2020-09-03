@@ -43,7 +43,7 @@ Wed 10am—12:30pm ET
 If you find yourself struggling, remember that you have many forms of support that you can take advantage of at ITP. Look out for the [office hours and help sessions that the residents offer](https://itp.nyu.edu/residents/contact-the-residents/). You can find my office hours [here](https://calendar.google.com/calendar/selfsched?sstoken=UUlFdHBUdGtNZlpEfGRlZmF1bHR8NGM3YjcyZWMxYWNkZDc1M2YxMTE5MjFjNWU5ODVkMjY) and my email is lisa.jamhoury@nyu.edu. Don't hesitate to reach out!
 
 ## Homework Assignments
-Assignments are due the night before class each week. I will not give credit for assignments that are turned in late. Keeping in mind that I want you to succeed, and that the material can sometimes be challenging, **I absolutely prefer tentative work with good documentation to work that is turned in late**.
+Assignments are due **before** class each week. I will not give credit for assignments that are turned in late. Keeping in mind that I want you to succeed, and that the material can sometimes be challenging, **I absolutely prefer tentative work with good documentation to work that is turned in late**.
 
 [Use this form to turn in your homework assignments](https://forms.gle/uyeKxox99DsHX88w8). 
 
