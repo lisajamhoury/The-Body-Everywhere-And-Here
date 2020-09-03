@@ -90,11 +90,33 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 * Topic: Final Presentations!!!
 
 ## Week-By-Week
-Coming soon!
 
+### Week 1 — Sept 9, 2020
 
+#### Class Notes
 
+* [Miro Board]()
+* Class Example 1 — []()
+* Class Example 2 — []()
+* Class Example 3 — []()
 
+#### Class Links
+
+* []()
+* []()
+* []()
+* []()
+
+#### Assignments 
+
+* Create a sketch that encourages the user to use their body in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like. 
+* Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way.  
+* Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+
+#### Read / Watch for Next Class 
+
+* Artificial Reality by Myron Krueger, pages 91-99
+* Phenomology of Perception, pages 
 
 
 
