@@ -60,7 +60,7 @@ The final two weeks of class will be devoted to final projects. Use this assignm
 This will comprise 20% of your grade. You will not be graded on whether it works on not, you will be graded on your process and documentation. So, please! make sure that you leave time to document your project well!
 
 ## Content Overview
-### Class One: Sept 9, 2020
+### Week One: Sept 9, 2020
 * Topic: The Body & The Computer 
 * Technical: Computer vision in Javascript 
 
