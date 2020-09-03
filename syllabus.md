@@ -118,6 +118,14 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 * Artificial Reality by Myron Krueger, pages 91-99
 * Phenomology of Perception, pages 
 
+#### Technical References
+
+* [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
+* [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
+* [npm live-server](https://www.npmjs.com/package/live-server)
+* []()
+
+
 
 
 
