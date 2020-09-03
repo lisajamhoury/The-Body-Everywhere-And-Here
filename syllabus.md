@@ -84,7 +84,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Week Six: Oct 12, 2020
 * Topic: Inclusive Design 
 * Guest Speaker: [Lauren Race](https://www.laurenrace.com/) 
-* Technical: User testing
+* Technical: User testing / Workshopping final projects
 
 ### Week Seven: Oct 19, 2020
 * Topic: Final Presentations!!!
