@@ -110,7 +110,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 #### Assignments 
 
 * Create a sketch that encourages the user to use their body in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like. 
-* Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way.  
+* Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way. * Consider: Moving away from your computer to test with the full body or using an external webcam placed away from you to capture your full body.  
 * Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 
 #### Read / Watch for Next Class 
