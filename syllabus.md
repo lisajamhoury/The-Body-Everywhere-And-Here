@@ -62,7 +62,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ## Content Overview
 ### Week One: Sept 9, 2020
 * Topic: The Body & The Computer 
-* Technical: Computer vision in Javascript 
+* Technical: The Pixel Array — Low-level computer vision in Javascript 
 
 ### Week Two: Sept 14, 2020
 * Topic: Presence in virtual spaces 
