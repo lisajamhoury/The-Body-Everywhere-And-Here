@@ -115,8 +115,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 #### Read / Watch for Next Class 
 
-* Artificial Reality by Myron Krueger, pages 91-99
-* Phenomology of Perception, pages 
+* [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/artificial_reality_5.pdf)
 
 #### Technical References
 
