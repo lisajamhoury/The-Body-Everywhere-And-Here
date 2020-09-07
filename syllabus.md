@@ -93,59 +93,62 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ## Week 1 — Sept 9, 2020
 
-#### Class Notes
+### Class Notes
 
 * [Miro Board]()
 * Class Example 1 — []()
 
-#### Class Links
+### Class Links
 
 * []()
 
-#### Technical References
+### Technical References
 
 * [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 * [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
 * [npm live-server](https://www.npmjs.com/package/live-server)
 * []()
 
-#### Assignments 
+### Assignments 
 
 * Create a sketch using the pixel array that encourages the user to use their body in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like. 
 * Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way. * Consider: Moving away from your computer to test with the full body or using an external webcam placed away from you to capture your full body.  
 * Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 * Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
-#### Read / Watch
+### Read / Watch
 
 * [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/artificial_reality_5.pdf)
 
+
+
 ## Week 2 — Sept 14, 2020
 
-#### Class Notes
+### Class Notes
 
 * [Miro Board]()
 * Class Example 1 — []()
 
-#### Class Links
+### Class Links
 
 * []()
 
-#### Technical References
+### Technical References
 
 * [Coding Train 15.1: What is Node.js?](https://youtu.be/RF5_MPSNAtU)
 * [Coding Train 15.2: What is NPM?](https://youtu.be/s70-Vsud9Vk)
 * [Coding Train 8.2: HTTP Server with Express](https://www.youtube.com/watch?v=6oiabY1xpBo)
 * [WebRTC for the Curious: What, Why and How](https://webrtcforthecurious.com/docs/01-what-why-and-how/)
+* [ngrok Documentation](https://ngrok.com/docs#getting-started-expose)
 
-#### Assignments 
+### Assignments 
 
 * Create a two-player sketch using the mouse over webRTC that encourages the users to be co-present in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like. 
 * Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way. 
 * Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 * Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
-#### Read / Watch 
+### Read / Watch 
 
 * [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
 * [Presence in Virtual Space - Rebecca Allen w/ Ghislaine Boddington](https://www.youtube.com/watch?v=6aFFslxQbrs)
