@@ -102,7 +102,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 * []()
 
-### Technical References
+### Tech Refs
 
 * [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 * [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
@@ -133,7 +133,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 * []()
 
-### Technical References
+### Tech Refs
 
 * [Coding Train 15.1: What is Node.js?](https://youtu.be/RF5_MPSNAtU)
 * [Coding Train 15.2: What is NPM?](https://youtu.be/s70-Vsud9Vk)
