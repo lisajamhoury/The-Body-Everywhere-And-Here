@@ -93,21 +93,21 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ## Week 1 — Sept 9, 2020
 
-### Class Notes
+### Class Notes & Examples
 
 * [Miro Board]()
 * Class Example 1 — []()
 
 ### Class Links
 
-* []()
+* [Kyle McDonald JS CV Examples](https://kylemcdonald.github.io/cv-examples/) | Stick to low and medium level for week 1 assignment
 
 ### Tech Refs
 
 * [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 * [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
 * [npm live-server](https://www.npmjs.com/package/live-server)
-* []()
+* [How to Turn Your Smartphone Into a Webcam](https://www.wired.com/story/use-your-phone-as-webcam/#:~:text=Install%20EpocCam%20Webcam%20Viewer%20from,network%20and%20launch%20the%20apps.)
 
 ### Assignments 
 
@@ -120,8 +120,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Read / Watch
 
 * [Artificial Reality by Myron Krueger, pages 91-99](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/artificial_reality_5.pdf)
-
-
+* [Myron Krueger - Videoplace, Responsive Environment, 1972-1990s](https://www.youtube.com/watch?v=dmmxVA5xhuo) 
+* [Presence in Virtual Space - Rebecca Allen w/ Ghislaine Boddington](https://www.youtube.com/watch?v=6aFFslxQbrs)
 
 ## Week 2 — Sept 14, 2020
 
@@ -132,7 +132,6 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Links
 
-* []()
 
 ### Tech Refs
 
@@ -151,6 +150,28 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Read / Watch 
 
+
+## Week 3 — Sept 21, 2020
+
+### Class Notes
+
+* [Miro Board]()
+* Class Example 1 — []()
+
+### Class Links
+
+
+### Tech Refs
+
+### Assignments 
+
+* ...
+* ...
+* Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+* Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+
+### Read / Watch 
+
 * [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
-* [Presence in Virtual Space - Rebecca Allen w/ Ghislaine Boddington](https://www.youtube.com/watch?v=6aFFslxQbrs)
+
 
