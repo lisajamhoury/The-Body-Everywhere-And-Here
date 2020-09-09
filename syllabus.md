@@ -50,7 +50,7 @@ Assignments are due **before** class each week. I will not give credit for assig
 [Here's the spreadsheet with everyone's responses](https://docs.google.com/spreadsheets/d/104GQ4UCZBFAeqXm1Vev7fK8VfNknCsOuDzvl1WN6sMc/edit?usp=sharing). 
 
 ## Homework Partner Program 
-Every week you will have a partner to work on homework with. You **must** user test with each other! From there, it is up to you and your partner how you will engage. You can work together on the assignement. You can work independently, then user test your work. You can work independently, but pair program throughout the week. 
+Every week you will have a partner to work on homework with. You **must** user test with each other! From there, it is up to you and your partner how you will engage. You can work together on the assignment. You can work independently, then user test your work. You can work independently, but pair program throughout the week. 
 
 My un-intelligent program will pair you in the first four weeks. You are welcome to switch partners as long as you work with different partners throughout the first four weeks. You will pick your own partner for the final assignment. 
 
