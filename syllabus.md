@@ -75,7 +75,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Week Four: Sept 28, 2020
 * Topic: "Social Networks" 
-* Technical: Kinect in JS, Peer mesh
+* Technical: Kinect in JS, WebRTC Peer mesh
 
 ### Week Five: Oct 5, 2020
 * Topic: Dimensions & Depth
