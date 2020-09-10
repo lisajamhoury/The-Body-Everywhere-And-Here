@@ -95,16 +95,21 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes & Examples
 
-* [Miro Board]()
-* Class Example 1 — []()
+* [Miro Board](https://miro.com/app/board/o9J_kmBfelk=/)
+* Class Example 1 —  [Github]() | [p5 Web Editor]()
 
-### Class Links / Tech Refs
+### Class Links 
 
 * [Movement by Etienne-Jules Marey](https://bobcat.library.nyu.edu/permalink/f/1c17uag/nyu_aleph005266199)
 * [The Making of Brilliance (1985)](https://www.youtube.com/watch?v=HZY5_ZzRdbk)
 * [Kyle McDonald JS CV Examples](https://kylemcdonald.github.io/cv-examples/) | Some more CV examples Stick to low and medium level for week 1 assignment
-* [budo](https://github.com/mattdesl/budo)
 * [Why can't I use = to copy an array in JS](https://www.samanthaming.com/tidbits/35-es6-way-to-clone-an-array/#why-can-t-i-use-to-copy-an-array)
+* [Coding Train 16.1: let vs var - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=q8SHaDQdul0)
+* [Coding Train 16.2: const - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=2iLVFyYwyRA)
+* [budo](https://github.com/mattdesl/budo)
+
+### Tech Refs 
+
 * [Coding Train 9.12: Local Server, Text Editor, JavaScript Console - p5.js Tutorial](https://www.youtube.com/watch?v=UCHzlUiDD10)
 * [Coding Train 11.3: The Pixel Array - p5.js Tutorial](https://www.youtube.com/watch?v=nMUMZ5YRxHI)
 * [p5 Local Server](https://github.com/processing/p5.js/wiki/Local-server)
