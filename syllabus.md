@@ -96,7 +96,8 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Class Notes & Examples
 
 * [Miro Board](https://miro.com/app/board/o9J_kmBfelk=/)
-* Class Example 1 —  [Github]() | [p5 Web Editor]()
+* Class Example 1: Webcam Frame Difference | [Github](/examples/week1/example1_framediff) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/CS5vnqLly)
+* Class Example 2: Webcam BG Subtraction | [Github](/examples/week1/example2_bgsub) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/61050hgvb)
 
 ### Class Links 
 
