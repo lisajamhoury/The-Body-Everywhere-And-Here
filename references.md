@@ -8,6 +8,8 @@ _List of publications about marker-less motion capture_
 
 [Motion Capture I](https://baswaramursyid.wordpress.com/2015/01/05/motion-capture-i/)
 
+[Why was SCTP Selected for WebRTC’s Data Channel?](https://bloggeek.me/sctp-data-channel/)
+
 ### Watchings
 [XYZT - 2015](https://vimeo.com/130690760) 
 
