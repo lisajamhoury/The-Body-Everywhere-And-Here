@@ -156,7 +156,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 * Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name under week 2. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch 
-* [Closer : performance, technologies, phenomenology]()
+* [Closer : performance, technologies, phenomenology](/readings/closer_2.pdf)
 
 
 ## Week 3 — Sept 21, 2020
