@@ -74,12 +74,12 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 * Technical: Posenet over WebRTC Peers
 
 ### Week Four: Sept 28, 2020
-* Topic: "Social Networks" 
-* Technical: Kinect in JS, WebRTC Peer mesh
+* Topic: Dimensions & Depth
+* Technical: Kinect in JS (via Kinectron)
 
 ### Week Five: Oct 5, 2020
-* Topic: Dimensions & Depth
-* Technical: Kinect in JS, Depthkit (?)
+* Topic: "Social Networks" 
+* Technical: WebRTC Peer mesh
 
 ### Week Six: Oct 12, 2020
 * Topic: Inclusive Design 
