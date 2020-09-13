@@ -157,7 +157,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Read / Watch 
 * [Closer : performance, technologies, phenomenology, pages 92-98](/readings/closer_2.pdf)
-* [Laurie Anderson & Mohammed el Gharani: Habeas Corpus](https://www.youtube.com/watch?v=WfuvAG_gXUM&list=LLT7lMd7jBOxDGJl3i5JAy0A&index=2060)
+* [Laurie Anderson & Mohammed el Gharani: Habeas Corpus](https://www.youtube.com/watch?v=kUKLA-W0nDM)
 
 
 ## Week 3 — Sept 21, 2020
