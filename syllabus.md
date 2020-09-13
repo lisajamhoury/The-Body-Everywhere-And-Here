@@ -152,11 +152,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Assignments 
 
 * Create a two-player sketch using the mouse over webRTC that encourages the users to be co-present in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like. 
-* Create at least two variations on the sketch that encourage the user to interact with your sketch in a specific way. 
 * Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-* Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+* Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name under week 2. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch 
+* [Closer : performance, technologies, phenomenology]()
 
 
 ## Week 3 — Sept 21, 2020
