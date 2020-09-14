@@ -139,12 +139,14 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Links
 
+* [Whitboard Drawing]()
 
 ### Tech Refs
 
 * [Coding Train 15.1: What is Node.js?](https://youtu.be/RF5_MPSNAtU)
 * [Coding Train 15.2: What is NPM?](https://youtu.be/s70-Vsud9Vk)
 * [Coding Train 8.2: HTTP Server with Express](https://www.youtube.com/watch?v=6oiabY1xpBo)
+* [Coding Train: Git and GitHub for Poets](https://thecodingtrain.com/beginners/git-and-github/index.html)
 * [WebRTC for the Curious: What, Why and How](https://webrtcforthecurious.com/docs/01-what-why-and-how/)
 * [ngrok Documentation](https://ngrok.com/docs#getting-started-expose)
 
