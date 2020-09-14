@@ -135,8 +135,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes
 
-* [Miro Board]()
-* Class Example 1 — []()
+* Class Example 1 — [Mouse over webRTC Peer Connection](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples)
 
 ### Class Links
 
