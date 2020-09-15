@@ -197,6 +197,6 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Read / Watch
 
 - [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
-— [Art Talk: An Interview with Nick Cave at the Institute of Contemporary Art/Boston](https://www.youtube.com/watch?v=ndvl8L_a72A)
-— [Quayola and Memo Akten, Forms](http://www.memo.tv/works/forms/)
-— Inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
+- [Art Talk: An Interview with Nick Cave at the Institute of Contemporary Art/Boston](https://www.youtube.com/watch?v=ndvl8L_a72A)
+- [Quayola and Memo Akten, Forms](http://www.memo.tv/works/forms/)
+- Inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
