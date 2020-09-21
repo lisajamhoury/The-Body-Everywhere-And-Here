@@ -181,16 +181,25 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes
 
-- [Miro Board]()
-- Class Example 1 — []()
+- [Miro Board](https://miro.com/app/board/o9J_klKbIPY=/)
+- Examples Repository — [WebRTC-Simple-Peer-Examples](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples)
+- Class Example 1 — Posenet Skeleton | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example2_posenet_skeleton_mirror) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/sC31eCyOl)
+- Class Example 2 — Posenet Skeleton No Mirroring | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example3_posenet_skeleton_no_mirror) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/vEWxnW8bF)
+- Class Example 3 — Posenet Curves Simple | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example4_posenet_curves_simple) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/SetTJ9Sf3)
+- Class Example 4 — Posenet Curves Combined | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example5_posenet_curves_combine) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/xnbywvdoc)
 
 ### Class Links
 
+* [LaJuné McMillian](https://laja.me/)
+* [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
 
 ### Assignments
 
-- ...
-- ...
+- Create a two-user sketch that: 
+    * Uses webRTC peer connections or sockets to create a live connection between two users
+    * Uses one or more machine learning models to detect all or part of the users’ bodies. 
+    * Includes at least one interaction between the two users. 
+    * Takes into account how the users’ forms inform the experience.
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
@@ -199,4 +208,4 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Phenomenology of perception by Maurice Merleau-Ponty](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/blob/master/readings/phenomenology_of_perception_2.pdf), pages 92-94 (through "what sees and touches")
 - [Art Talk: An Interview with Nick Cave at the Institute of Contemporary Art/Boston](https://www.youtube.com/watch?v=ndvl8L_a72A)
 - [Quayola and Memo Akten, Forms](http://www.memo.tv/works/forms/)
-- Inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
+- Forms inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
