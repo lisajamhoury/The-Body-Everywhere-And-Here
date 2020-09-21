@@ -192,6 +192,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 * [LaJuné McMillian](https://laja.me/)
 * [Posenet Documentation](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+* [ml5js.org/](https://ml5js.org/)
 * Coding Train ml5.js: Pose Estimation with PoseNet: [7.1](https://thecodingtrain.com/learning/ml5/7.1-posenet.html) | [7.2](https://thecodingtrain.com/learning/ml5/7.2-pose-classifier.html) | [7.3](https://thecodingtrain.com/learning/ml5/7.3-pose-regression.html)
 * [Pose Animator: SVG Characters with Posenet](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
 * [Google Mediapipe](https://github.com/google/mediapipe)
