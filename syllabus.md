@@ -200,10 +200,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Assignments
 
 - Create a two-user sketch that: 
-    * Uses webRTC peer connections or sockets to create a live connection between two users
+    * Creates a live connection between two users
     * Uses one or more machine learning models to detect all or part of the users’ bodies. 
     * Includes at least one interaction between the two users. 
     * Takes into account how the users’ forms inform the experience.
+- User test with your partner. Focus on what it feels like, not (or in addition to) what it looks like.
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
