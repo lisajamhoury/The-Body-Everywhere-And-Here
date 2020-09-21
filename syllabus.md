@@ -192,6 +192,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 * [LaJuné McMillian](https://laja.me/)
 * [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
+* [clmtrackr](https://github.com/auduno/clmtrackr) | [Live example from Kyle McDonald](https://kylemcdonald.github.io/cv-examples/FaceTracking/)
 
 ### Assignments
 
