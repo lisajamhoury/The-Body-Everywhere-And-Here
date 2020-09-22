@@ -187,6 +187,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Class Example 2 — Posenet Skeleton No Mirroring | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example3_posenet_skeleton_no_mirror) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/vEWxnW8bF)
 - Class Example 3 — Posenet Curves Simple | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example4_posenet_curves_simple) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/SetTJ9Sf3)
 - Class Example 4 — Posenet Curves Combined | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example5_posenet_curves_combine) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/xnbywvdoc)
+- Async Class Example — Posenet Intro | [Video](https://nyu.zoom.us/rec/play/fEkBlIT4bR_PrPe7OdG8kfmsc4bYLNHHArKMYKEJl5t3y9uswlF2I0jAxAePukQdMapGblyJO8yWLGk.5ismXTXDKAxcR64I?continueMode=true) |  [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/ZjFypJGTg)
 
 ### Class Links
 
