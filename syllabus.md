@@ -198,6 +198,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 * [Google Mediapipe](https://github.com/google/mediapipe)
 * [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
 * [clmtrackr](https://github.com/auduno/clmtrackr) | [Live example from Kyle McDonald](https://kylemcdonald.github.io/cv-examples/FaceTracking/)
+* [Enabling developer mode on Windows 10](https://mywindowshub.com/how-to-enable-developer-mode-in-your-windows-10-computer/)
 
 ### Assignments
 
