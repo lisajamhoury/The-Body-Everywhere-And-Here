@@ -21,3 +21,7 @@ _List of publications about marker-less motion capture_
 
 ### Terms 
 [Kinect](https://en.wikipedia.org/wiki/Kinect)
+
+### Kinect 
+
+[Confidence levels](https://microsoft.github.io/Azure-Kinect-Body-Tracking/release/1.x.x/namespace_microsoft_1_1_azure_1_1_kinect_1_1_body_tracking_adfff503ebc1491373c89e96887cad226.html#adfff503ebc1491373c89e96887cad226)
