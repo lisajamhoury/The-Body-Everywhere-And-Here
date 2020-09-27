@@ -219,3 +219,32 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Forms, Quayola and Memo Akten](http://www.memo.tv/works/forms/)
 - [Space between bodies, Tyler Yin](https://vimeo.com/449493919)
 - Forms inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
+
+
+
+## Week 4 — Sept 28, 2020
+
+### Class Notes
+
+- [Miro Board]()
+- Class Example 1 —  | 
+
+### Class Links
+
+* [Kinect Windows / Azure Comparison] (https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
+* [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
+* [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
+* [Coding Train Intro to WebGL](https://thecodingtrain.com/Tutorials/18-webgl/18.1-introduction-to-webgl.html)
+* [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
+ 
+
+### Assignments
+
+- 
+- User test with your partner. Focus on what it feels like, not (or in addition to) what it looks like.
+- Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+
+### Read / Watch
+
+- 
