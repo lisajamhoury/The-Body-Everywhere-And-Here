@@ -232,6 +232,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 ### Class Links
 
 * [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
+* [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
 * [Kinect Windows / Azure Comparison] (https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
 * [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
 * [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
