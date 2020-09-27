@@ -3,6 +3,8 @@
 ### Writings 
 [A Survey of Computer Vision-Based Human Motion Capture](https://pdfs.semanticscholar.org/39d9/fd0c725a7e36665fc7768ae58fa8003dddb6.pdf)<br>
 
+[Comparing Three Prevalent 3D Imaging Technologies—ToF, Structured Light and Binocular Stereo Vision](https://www.revopoint3d.com/comparing-three-prevalent-3d-imaging-technologies-tof-structured-light-and-binocular-stereo-vision/)
+
 [Marker-less Motion Capture](https://vision.in.tum.de/research/markerless_motion_capture)<br>
 _List of publications about marker-less motion capture_
 
