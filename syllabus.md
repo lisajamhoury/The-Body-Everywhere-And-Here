@@ -243,6 +243,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Understanding Kinect V2 Joints and Coordinate System](https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16)
 - [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
 - [THREE.Meshline](https://github.com/spite/THREE.MeshLine)
+- [depth2web](https://github.com/js6450/depth2web)
 
 ### Assignments
 
