@@ -170,7 +170,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Create a two-player sketch using the mouse over webRTC peer connection that encourages the users to be co-present in some way. User test with your partner. Focus on what it _feels_ like, not (or in addition to) what it looks like.
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name under week 2. Keep it to one sentence! But feel free to add commentary or context in a comment.
-- Please be on time for our upcoming class! [Lajune McMillian](https://laja.me/) is speaking at the beginning of our next class. Here's [an interview](https://www.berlinartlink.com/2020/08/21/the-black-movement-project-an-interview-with-lajune-mcmillian/) she recently did if you are interested in learning about her work before class. 
+- Please be on time for our upcoming class! [Lajune McMillian](https://laja.me/) is speaking at the beginning of our next class. Here's [an interview](https://www.berlinartlink.com/2020/08/21/the-black-movement-project-an-interview-with-lajune-mcmillian/) she recently did if you are interested in learning about her work before class.
 
 ### Read / Watch
 
@@ -187,27 +187,27 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Class Example 2 — Posenet Skeleton No Mirroring | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example3_posenet_skeleton_no_mirror) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/vEWxnW8bF)
 - Class Example 3 — Posenet Curves Simple | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example4_posenet_curves_simple) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/SetTJ9Sf3)
 - Class Example 4 — Posenet Curves Combined | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example5_posenet_curves_combine) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/xnbywvdoc)
-- Async Class Example — Posenet Intro | [Video](https://nyu.zoom.us/rec/play/fEkBlIT4bR_PrPe7OdG8kfmsc4bYLNHHArKMYKEJl5t3y9uswlF2I0jAxAePukQdMapGblyJO8yWLGk.5ismXTXDKAxcR64I?continueMode=true) |  [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/ZjFypJGTg)
+- Async Class Example — Posenet Intro | [Video](https://nyu.zoom.us/rec/play/fEkBlIT4bR_PrPe7OdG8kfmsc4bYLNHHArKMYKEJl5t3y9uswlF2I0jAxAePukQdMapGblyJO8yWLGk.5ismXTXDKAxcR64I?continueMode=true) | [p5 Web Editor](https://editor.p5js.org/lisajamhoury/sketches/ZjFypJGTg)
 
 ### Class Links
 
-* [LaJuné McMillian](https://laja.me/)
-* [Posenet Documentation](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
-* [ml5js.org](https://ml5js.org/)
-* Coding Train ml5.js: Pose Estimation with PoseNet: [7.1](https://thecodingtrain.com/learning/ml5/7.1-posenet.html) | [7.2](https://thecodingtrain.com/learning/ml5/7.2-pose-classifier.html) | [7.3](https://thecodingtrain.com/learning/ml5/7.3-pose-regression.html)
-* [Pose Animator: SVG Characters with Posenet](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
-* [Google Mediapipe](https://github.com/google/mediapipe)
-* [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
-* [clmtrackr](https://github.com/auduno/clmtrackr) | [Live example from Kyle McDonald](https://kylemcdonald.github.io/cv-examples/FaceTracking/)
-* [Enabling developer mode on Windows 10](https://mywindowshub.com/how-to-enable-developer-mode-in-your-windows-10-computer/)
+- [LaJuné McMillian](https://laja.me/)
+- [Posenet Documentation](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
+- [ml5js.org](https://ml5js.org/)
+- Coding Train ml5.js: Pose Estimation with PoseNet: [7.1](https://thecodingtrain.com/learning/ml5/7.1-posenet.html) | [7.2](https://thecodingtrain.com/learning/ml5/7.2-pose-classifier.html) | [7.3](https://thecodingtrain.com/learning/ml5/7.3-pose-regression.html)
+- [Pose Animator: SVG Characters with Posenet](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html)
+- [Google Mediapipe](https://github.com/google/mediapipe)
+- [Lingdong Huang Mediapipe Demos](https://github.com/LingDong-/handpose-facemesh-demos)
+- [clmtrackr](https://github.com/auduno/clmtrackr) | [Live example from Kyle McDonald](https://kylemcdonald.github.io/cv-examples/FaceTracking/)
+- [Enabling developer mode on Windows 10](https://mywindowshub.com/how-to-enable-developer-mode-in-your-windows-10-computer/)
 
 ### Assignments
 
-- Create a two-user sketch that: 
-    * Creates a live connection between two users
-    * Uses one or more machine learning models to detect all or part of the users’ bodies. 
-    * Includes at least one interaction between the two users. 
-    * Takes into account how the users’ forms inform the experience.
+- Create a two-user sketch that:
+  - Creates a live connection between two users
+  - Uses one or more machine learning models to detect all or part of the users’ bodies.
+  - Includes at least one interaction between the two users.
+  - Takes into account how the users’ forms inform the experience.
 - User test with your partner. Focus on what it feels like, not (or in addition to) what it looks like.
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
 - Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
@@ -220,33 +220,43 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Space between bodies, Tyler Yin](https://vimeo.com/449493919)
 - Forms inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
 
-
-
 ## Week 4 — Sept 28, 2020
 
 ### Class Notes
 
-- [Miro Board]()
-- Class Example 1 —  | 
+- Class Example 1 — Kinectron p5.js |
+- Class Example 2 — Kinectron Three.js Skeleton | [Github]() | [Glitch](https://kinectron-skeleton-threejs.glitch.me/)|
+- Class Example 3 — Kinectron Three.js DepthKey | [Github]() | [Glitch](https://kinectron-depthkey-3js.glitch.me/)
 
 ### Class Links
 
-* [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
-* [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
-* [Kinect Windows / Azure Comparison] (https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
-* [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
-* [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
-* [Coding Train Intro to WebGL](https://thecodingtrain.com/Tutorials/18-webgl/18.1-introduction-to-webgl.html)
-* [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
- 
+- [Kinectron](https://kinectron.github.io/)
+- [Kinectron Server Version 0.3.5](https://github.com/kinectron/kinectron/releases/tag/0.3.5)
+- [Kinectron Bootcamp Install by Jake Sherwood](https://jakesherwood.com/blog/body_ewah/kinectron-install)
+- [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
+- [Kinect Windows / Azure Comparison](https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
+- [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
+- [Azure Kinect Hardware Specification](https://docs.microsoft.com/en-us/azure/kinect-dk/hardware-specification)
+- [Azure Kinect body joints documentation](https://docs.microsoft.com/en-us/azure/Kinect-dk/body-joints)
+- [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
+- [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
+- [Understanding Kinect V2 Joints and Coordinate System](https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16)
+- [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
+- [THREE.Meshline](https://github.com/spite/THREE.MeshLine)
 
 ### Assignments
 
-- 
-- User test with your partner. Focus on what it feels like, not (or in addition to) what it looks like.
+- Continue your exploration of forms and how they impact interaction. How does your digital form impact your experience online? You may continue to develop your idea from the previous week, or you can start a new project.
+- Consider bringing your 2D sketch from last week into 3D. Is anything gained or lost in the transition between dimensions?
+- Work alone or with a partner. Your choice!
+- User test with at least one person. (Partner, roommate, family member...)
 - Write a blog post to document the process of creating your sketch. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
-- Do the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+- Catch up on reading! Make sure you have entered one sentence that you found interesting or provocative from each of the previous three readings in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
 
 ### Read / Watch
 
-- 
+- No additional reading this week! Catch up on previous readings.
+- [Treachery of Sanctuary](https://vimeo.com/39515812)
+- [Kinect flow dance](https://www.youtube.com/watch?v=ISKV1BeB3pM)
+- [Firewall](https://vimeo.com/54882144)
+- [Mocap2Web](http://www.memo.tv/works/mocap2web/)
