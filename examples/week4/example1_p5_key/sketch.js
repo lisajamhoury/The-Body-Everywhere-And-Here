@@ -1,18 +1,24 @@
-let kinectron;
-
 function setup() {
   createCanvas(640, 576);
-  kinectron = new Kinectron("e2daf0597f03.ngrok.io");
+  // Create kinectron
+  const kinectron = new Kinectron("127.0.0.1");
+
+  // Set kinect type to azure
   kinectron.setKinectType("azure");
+
+  // Connect to server
   kinectron.makeConnection();
-  kinectron.startDepth(drawDepth);
+
+  // Start the key feed, and set a call back for when data is recieved
+  kinectron.startKey(drawKey);
 }
 
 function draw() {}
 
-function drawDepth(depthImg) {
-  // background(0);
-  loadImage(depthImg.src, (img) => {
-    image(img, 0, 0);
+function drawKey(keyImg) {
+  // load the new image
+  loadImage(keyImg.src, (kImg) => {
+    // draw it once its loaded
+    image(kImg, 0, 0);
   });
 }
