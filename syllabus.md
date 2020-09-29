@@ -229,7 +229,7 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Class Example 3 — Kinectron p5.js DepthKey | [Github](/examples/week4/example3_p5_depthkey)
 - Class Example 4 — Kinectron p5.js Skeleton | [Github](/examples/week4/example4_p5_skeleton)
 - Class Example 5 — Kinectron Three.js Skeleton Simple | [Github](/examples/week4/example5_3js_skeleton_simple) 
-- Class Example 6 — Kinectron Three.js Skeleton Ribbons | [Github](/examples/week4/example6_3js_skeleton_ribbons) | [Glitch](https://glitch.com/~kinectron-skeleton-threejs)|
+- Class Example 6 — Kinectron Three.js Skeleton Ribbons | [Github](/examples/week4/example6_3js_skeleton_ribbons) | [Glitch](https://glitch.com/~kinectron-skeleton-threejs)
 - Class Example 7 — Kinectron Three.js DepthKey | [Github](/examples/week4/example7_3js_depthkey) | [Glitch](https://glitch.com/~kinectron-depthkey-3js)
 
 ### Class Links
