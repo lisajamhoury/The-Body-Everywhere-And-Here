@@ -224,26 +224,38 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Notes
 
-- Class Example 1 — Kinectron p5.js |
-- Class Example 2 — Kinectron Three.js Skeleton | [Github]() | [Glitch](https://kinectron-skeleton-threejs.glitch.me/)|
-- Class Example 3 — Kinectron Three.js DepthKey | [Github]() | [Glitch](https://kinectron-depthkey-3js.glitch.me/)
+- Class Example 1 — Kinectron p5.js Key | [Github](/examples/week4/example1_p5_key)
+- Class Example 2 — Kinectron p5.js Depth | [Github](/examples/week4/example2_p5_depth)
+- Class Example 3 — Kinectron p5.js DepthKey | [Github](/examples/week4/example3_p5_depthkey)
+- Class Example 4 — Kinectron p5.js Skeleton | [Github](/examples/week4/example4_p5_skeleton)
+- Class Example 5 — Kinectron Three.js Skeleton Simple | [Github](/examples/week4/example5_3js_skeleton_simple) 
+- Class Example 6 — Kinectron Three.js Skeleton Ribbons | [Github](/examples/week4/example6_3js_skeleton_ribbons) | [Glitch](https://glitch.com/~kinectron-skeleton-threejs)|
+- Class Example 7 — Kinectron Three.js DepthKey | [Github](/examples/week4/example7_3js_depthkey) | [Glitch](https://glitch.com/~kinectron-depthkey-3js)
 
 ### Class Links
+  
+  #### General Kinect 
+- [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
+- [Kinect Windows / Azure Comparison](https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
+- [Azure Kinect Hardware Specification](https://docs.microsoft.com/en-us/azure/kinect-dk/hardware-specification)
+- [Azure Kinect body joints documentation](https://docs.microsoft.com/en-us/azure/Kinect-dk/body-joints)
+- [Understanding Kinect V2 Joints and Coordinate System](https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16)
 
+  #### Kinectron
 - [Kinectron](https://kinectron.github.io/)
 - [Kinectron Server Version 0.3.5](https://github.com/kinectron/kinectron/releases/tag/0.3.5)
 - [Kinectron Bootcamp Install by Jake Sherwood](https://jakesherwood.com/blog/body_ewah/kinectron-install)
 - [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
-- [Kinect Windows / Azure Comparison](https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
-- [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
-- [Azure Kinect Hardware Specification](https://docs.microsoft.com/en-us/azure/kinect-dk/hardware-specification)
-- [Azure Kinect body joints documentation](https://docs.microsoft.com/en-us/azure/Kinect-dk/body-joints)
-- [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
-- [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
-- [Understanding Kinect V2 Joints and Coordinate System](https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16)
+- [More Kinectron Examples](https://kinectron.github.io/docs/example-simple-skeleton.html) | Includes [Skeleton Example](https://kinectron.github.io/docs/example-skeleton-images-windows.html) from Elena and Dina's 2019 project! 
+
+  #### Three.js 
 - [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
 - [THREE.Meshline](https://github.com/spite/THREE.MeshLine)
-- [depth2web](https://github.com/js6450/depth2web)
+
+  #### More resources
+  - [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
+  - [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
+  - [depth2web](https://github.com/js6450/depth2web)
 
 ### Assignments
 
