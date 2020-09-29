@@ -8,7 +8,6 @@ Kinectron Example
 Kinect Azure depth key to point cloud using threejs
 Depth key delivers depth data corresponding only to detected people 
 
-On glitch at https://kinectron-depthkey-3js.glitch.me/
 === */
 // variable for kinectron
 let kinectron = null;
@@ -26,8 +25,7 @@ let particles;
 let colors = [];
 
 function initKinectron() {
-  // Define kinectron
-  // replace the ip address with the kinectron server ip address
+  // Replace the ip address with the kinectron server ip address
   // remember to keep the '' quotes
   const kinectronServerIPAddress = "127.0.0.1"; // FILL IN YOUR KINECTRON IP ADDRESS HERE
 
@@ -182,7 +180,7 @@ function render() {
   // https://stackoverflow.com/questions/41077723/what-is-the-exact-meaning-for-renderer-in-programming
   renderer.render(scene, camera);
 
-  // Update the trackball controls with each scene
+  // Update the trackball controls with each frame
   controls.update();
 
   // Request anim frame
