@@ -234,28 +234,28 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ### Class Links
   
-  #### General Kinect 
+#### General Kinect 
 - [How to pronounce the name of Microsoft's cloud: Azure](https://www.youtube.com/watch?v=AmP11EgEM4g)
 - [Kinect Windows / Azure Comparison](https://docs.microsoft.com/en-us/azure/kinect-dk/windows-comparison)
 - [Azure Kinect Hardware Specification](https://docs.microsoft.com/en-us/azure/kinect-dk/hardware-specification)
 - [Azure Kinect body joints documentation](https://docs.microsoft.com/en-us/azure/Kinect-dk/body-joints)
 - [Understanding Kinect V2 Joints and Coordinate System](https://medium.com/@lisajamhoury/understanding-kinect-v2-joints-and-coordinate-system-4f4b90b9df16)
 
-  #### Kinectron
+#### Kinectron
 - [Kinectron](https://kinectron.github.io/)
 - [Kinectron Server Version 0.3.5](https://github.com/kinectron/kinectron/releases/tag/0.3.5)
 - [Kinectron Bootcamp Install by Jake Sherwood](https://jakesherwood.com/blog/body_ewah/kinectron-install)
 - [Coding Train: Kinectron](https://www.youtube.com/watch?v=BV6xK3EOznI)
 - [More Kinectron Examples](https://kinectron.github.io/docs/example-simple-skeleton.html) | Includes [Skeleton Example](https://kinectron.github.io/docs/example-skeleton-images-windows.html) from Elena and Dina's 2019 project! 
 
-  #### Three.js 
+#### Three.js 
 - [Three.js Introduction](https://threejs.org/docs/#manual/en/introduction/Creating-a-scene)
 - [THREE.Meshline](https://github.com/spite/THREE.MeshLine)
 
-  #### More resources
-  - [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
-  - [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
-  - [depth2web](https://github.com/js6450/depth2web)
+#### More resources
+- [Kinect 2 Node Module](https://github.com/wouterverweirder/kinect2)
+- [Azure Kinect Node Module](https://github.com/wouterverweirder/kinect-azure)
+- [depth2web](https://github.com/js6450/depth2web)
 
 ### Assignments
 
