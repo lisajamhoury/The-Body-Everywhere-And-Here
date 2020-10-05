@@ -273,3 +273,33 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Kinect flow dance](https://www.youtube.com/watch?v=ISKV1BeB3pM)
 - [Firewall](https://vimeo.com/54882144)
 - [Mocap2Web](http://www.memo.tv/works/mocap2web/)
+
+## Week 5 — Oct 5, 2020
+
+### Class Notes
+
+- Class Example 1 — Peer to Peer Multiple Mouse | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example6_mouse_multiple) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/8q0CCylIg)
+- Class Example 2 — Peer to Peer Multiple Posenet | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example7_posenet_multiple) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/SrA0A8nXD)
+- Class Example 3 — Peer to Peer Posenet Handsup | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example8_posenet_multiple_handsup) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/1KfkbQfNE)
+- Class Example 4 — Peer to Peer Frame Difference | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example9_frameDiff) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/K5CnT1P6F)
+- Class Example 5 — Two Kinects, One Browser | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/BJBbQ7uMf)
+
+### Class Links
+- [2.6: createGraphics() - p5.js Tutorial](https://www.youtube.com/watch?v=TaluaAD9MKA)
+- [HTMLCanvasElement.toDataURL()](https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/toDataURL)
+
+### Assignments
+
+#### Final Assignment 
+- Create something that reflects on the ideas we've discussed in class so far this semester. You can continue to work on one of your previous assignments, or create something entirely new. Work alone or with a partner. Your choice!
+- For next week (week 6): Create a prototype or documentation of a prototype that you can use for class discussion. We will do breakout “user testing” next week to give you time to get feedback on your ideas/prototypes. Post your idea and your progress on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+- For final week (week 7): Prepare a final presentation about your project. Each person will have 7 minutes to present. Live demos are always welcome :)  Post your final documentation on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+
+#### Reading 
+- Read the reading! Enter one sentence that you found interesting or provocative from the reading in [this Google Doc](https://docs.google.com/document/d/1oFqHFwor2M77_I_P9ruhhliIVFv6fNjIEudZkXGKZgs/edit?usp=sharing) with your name. Keep it to one sentence! But feel free to add commentary or context in a comment.
+
+### Read / Watch
+
+- [The End of Average, Todd Rose, pages 1-9](/readings/end_of_avg_intro.pdf)
+- [Me and My Shadows](http://www.bodydataspace.net/projects/meandmyshadow/)
+- [DigitalDancePary](https://danielkorssen.com/project/digital-dance-party)
