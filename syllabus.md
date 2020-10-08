@@ -303,3 +303,13 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [The End of Average, Todd Rose, pages 1-9](/readings/end_of_avg_intro.pdf)
 - [Me and My Shadows](http://www.bodydataspace.net/projects/meandmyshadow/)
 - [DigitalDancePary](https://danielkorssen.com/project/digital-dance-party)
+
+
+## Week 6 — Oct 12, 2020
+
+### Class Notes
+
+- Async Class Example 1 — Recording and Replaying Data with Mouse | [Video](https://nyu.zoom.us/rec/share/wGx1iARVcLrgeOC_kFKTYLikcUqyN_RFEOE6RrpQvv8KSkqjWpyD8txPSi6pJIVk.uYYBXwNwzZ331Qzb) ( + [Addendum](https://nyu.zoom.us/rec/share/6rlQTm_34L59gM0wqGOLR3jSPA65GxYz_2fF0B6yFucFe7-WU04Y1_hMeubRu1Wh.Cy_tmmvqXY-Tfo8Q) ) | [Github](/examples/week6/ex1_record_mouse) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/-w2UgJzNX)
+- Async Class Example 2 — Recording and Replaying Data with Posenet | [Github](/examples/week6/ex2_posenet_recorded) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/fjJLDl4UM)
+- Async Class Example 3 — Recording and Replaying Data with Mouse Over Peers | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example10_record_mouse)
+
