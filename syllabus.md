@@ -314,3 +314,14 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Async Class Example 3 — Recording and Replaying Data with Mouse Over Peers | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example10_record_mouse)
 - Async Class Example 4 — Three.js Basics with Recorded Kinectron Skeleton | [Video](https://nyu.zoom.us/rec/share/1dvUV4MGan6_loOGNVqCyUbE-tXmCQ3daRs82Piz66S9SKMrOvMkWBZZp3iP4E9V.2HY3vkPX-daTq0-C) | [Github](https://github.com/lisajamhoury/The-Body-Everywhere-And-Here/tree/master/examples/week6/ex4_3js_lights_kinect) | [Glitch](https://glitch.com/~kindhearted-jolly-abacus)
 
+### Prototyping / Playtesting Questions
+
+— If you have a prototype: How was the experience? How did it make you feel? Did it encourage you to move? How? Was the interaction clear? What did you enjoy about the experience? How could it be improved? Other feedback? 
+— If you don't have a prototype: Present your idea and get feedback. Classmates can provide inspiration, resources, help debugging, etc. 
+
+### Assignments
+
+#### Final Assignment 
+- Create something that reflects on the ideas we've discussed in class so far this semester. You can continue to work on one of your previous assignments, or create something entirely new. Work alone or with a partner. Your choice!
+- For next week (week 6): Create a prototype or documentation of a prototype that you can use for class discussion. We will do breakout “user testing” next week to give you time to get feedback on your ideas/prototypes. Post your idea and your progress on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
+- For final week (week 7): Prepare a final presentation about your project. Each person will have 7 minutes to present. Live demos are always welcome :)  Post your final documentation on your blog. Submit it in the [Homework form](https://forms.gle/uyeKxox99DsHX88w8).
