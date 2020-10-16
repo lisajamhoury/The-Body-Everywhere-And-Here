@@ -111,6 +111,12 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ## Week 1 — Sept 9, 2020
 
+### Topic: The Body & The Computer
+
+- How does the body see the computer? 
+- History of motion capture / computer vision
+- The Pixel Array — Low-level computer vision in Javascript
+
 ### Class Notes & Examples
 
 - [Miro Board](https://miro.com/app/board/o9J_kmBfelk=/)
@@ -151,6 +157,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ## Week 2 — Sept 14, 2020
 
+### Topic: Presence in virtual spaces
+
+- What is presence? In virtual space?
+- Live Web Redux, WebRTC, peer connections 
+
 ### Class Notes
 
 - [Whiteboard Drawing](/whiteboard/class2_webrtc.png)
@@ -178,6 +189,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - [Laurie Anderson & Mohammed el Gharani: Habeas Corpus](https://www.youtube.com/watch?v=kUKLA-W0nDM)
 
 ## Week 3 — Sept 21, 2020
+
+### Topic: Digital Forms & Online Identities
+
+- Which came first, the form or the function?
+- Posenet over WebRTC Peers, Mediapipe hand and face models 
 
 ### Class Notes
 
@@ -221,6 +237,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 - Forms inspiration by Zach Lieberman | [1](https://www.instagram.com/p/CDpJ7Osj3wl/), [2](https://www.instagram.com/p/CA5qv9bjjlV/), [3](https://www.instagram.com/p/CEG9k8_j5pq/), [4](https://www.instagram.com/p/B3PQwJKjiun/)
 
 ## Week 4 — Sept 28, 2020
+
+### Topic: Dimensions & Depth
+
+- How does dimensionality impact experience? 
+- Kinect in JS (via Kinectron)
 
 ### Class Notes
 
@@ -276,6 +297,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 ## Week 5 — Oct 5, 2020
 
+### Topic: "Social Networks"
+
+- Can we really be social over networks? 
+- WebRTC Peer mesh with Posenet
+
 ### Class Notes
 
 - Class Example 1 — Peer to Peer Multiple Mouse | [Github](https://github.com/lisajamhoury/WebRTC-Simple-Peer-Examples/tree/master/browser_client/examples/example6_mouse_multiple) | [p5 Editor](https://editor.p5js.org/lisajamhoury/sketches/8q0CCylIg)
@@ -306,6 +332,11 @@ This will comprise 20% of your grade. You will not be graded on whether it works
 
 
 ## Week 6 — Oct 12, 2020
+
+### Topic: Production, Inclusive Design
+
+- Moving from prototype to production: prototyping, user testing, inclusion
+- Coding with recorded data
 
 ### Class Notes
 
